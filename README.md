@@ -5,4 +5,4 @@ and "bad" but rather the amounts in which we consume it.
 
 Uses Jsoup to scrape
 
-*Deprecated now - USDA updated the format of their website. Will work on updating the scraping section when I get to updating the app.
+*Deprecated now - USDA updated the format of their website.
